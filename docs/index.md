@@ -18,6 +18,8 @@ relevant source from amongst the old data. This paper evaluates BEETLE with 57 d
 found configurations that are as good as or better than those found by other state-of-the-art transfer learners while requiring only a fraction ( 1
 7th) of the measurements needed by those other methods. Based on these results, we say that BEETLE is a new high-water mark in optimally configuring software.
 
+## Overview
+![](https://imgur.com/a/pFKxUUQ)
 ## Cite As
 
 ```
