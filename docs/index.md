@@ -1,5 +1,5 @@
 # BEETLE: **BE**LLW**E**THER **T**RANSFER **LE**ARNER 
-![](/beetle.png)
+![](../beetle.png)
 ## Submission 
 
 Published in IEEE Transactions on Software Engineering (TSE) 2020. ARXIV Link: https://arxiv.org/pdf/1911.01817.pdf
