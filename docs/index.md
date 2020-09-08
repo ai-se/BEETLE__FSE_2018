@@ -19,7 +19,8 @@ found configurations that are as good as or better than those found by other sta
 7th) of the measurements needed by those other methods. Based on these results, we say that BEETLE is a new high-water mark in optimally configuring software.
 
 ## Overview
-![](https://imgur.com/pv3go85)
+![image](https://user-images.githubusercontent.com/1433964/92516665-89345580-f1e3-11ea-9a6e-ec1b645e6df6.png)
+
 ## Cite As
 
 ```
