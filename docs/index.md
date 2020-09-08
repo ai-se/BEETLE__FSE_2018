@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# BEETLE: **BE**LLW**E**THER **T**RANSFER **LE**ARNER 
+![](/beetle.png)
+## Submission 
 
-You can use the [editor on GitHub](https://github.com/rahlk/BEETLE/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Published in IEEE Transactions on Software Engineering (TSE) 2020. ARXIV Link: https://arxiv.org/pdf/1911.01817.pdf
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Cite As
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+@article{krishna2020whence,
+  title={Whence to Learn? Transferring Knowledge in Configurable Systems using BEETLE},
+  author={Krishna, Rahul and Nair, Vivek and Jamshidi, Pooyan and Menzies, Tim},
+  journal={IEEE Transactions on Software Engineering},
+  year={2020},
+  publisher={IEEE}
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Authors
 
-### Jekyll Themes
++ Rahul Krishna(a), Vivek Nair(b), Pooyan Jamshidi(c), Tim Menzies (d)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahlk/BEETLE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  + (a) i.m.ralk@gmail.com, Columbia Univ., USA
+  + (b) vivekaxl@gmail.com, Facebook, Inc., USA
+  + (c) pooyan.jamshidi@gmail.com, Univ. South Carolina, USA
+  + (d) tim.menzies@gmail.com, NC State Univ., USA
 
-### Support or Contact
+## Data
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++ [Configuration Data](/src/Data)
+
+
+## Source Code
+
++ [BEETLE](/src/)
+
+## License
+
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
+
+(BTW, it would be great to hear from you if you are using this material. But that is optional.)
+
+In jurisdictions that recognize copyright laws, the author or authors of this software dedicate any and all copyright interest in the software to the public domain. We make this dedication for the benefit of the public at large and to the detriment of our heirs and successors. We intend this dedication to be an overt act of relinquishment in perpetuity of all present and future rights to this software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to http://unlicense.org
