@@ -2,38 +2,33 @@
 ![](/beetle.png)
 ## Submission 
 
-Submitted to [Foundations of Software Engineering (FSE) 2018](https://conf.researchr.org/home/fse-2018). ARXIV Link: https://arxiv.org/abs/1803.03900
+Published in IEEE Transactions on Software Engineering (TSE) 2020. ARXIV Link: https://arxiv.org/pdf/1911.01817.pdf
 
 ## Cite As
 
 ```
-@misc{nair18beetle,
-Author = {Vivek Nair, Rahul Krishna, Tim Menzies, and Pooyan Jamshidi},
-Title = {Transfer Learning with Bellwethers to Find Good Configurations},
-Year = {2018},
-journal= {Foundations of Software Engineering 2018, submitted.},
-Eprint = {arXiv:1803.03900},
+@article{krishna2020whence,
+  title={Whence to Learn? Transferring Knowledge in Configurable Systems using BEETLE},
+  author={Krishna, Rahul and Nair, Vivek and Jamshidi, Pooyan and Menzies, Tim},
+  journal={IEEE Transactions on Software Engineering},
+  year={2020},
+  publisher={IEEE}
 }
 ```
 
 ## Authors
 
-+ Vivek Nair, Rahul Krishna, Tim Menzies
-  + North Carolina State University, USA
-  + vivekaxl@gmail.com
-  + i.m.ralk@gmail.com
-  + tim.menzies@gmail.com
-+ Pooyan Jamshidi
-  + Carnegie Mellon University, USA 
-  + pooyan.jamshidi@gmail.com 
++ Rahul Krishna(a), Vivek Nair(b), Pooyan Jamshidi(c), Tim Menzies (d)
+
+  + (a) i.m.ralk@gmail.com, Columbia Univ., USA
+  + (b) vivekaxl@gmail.com, Facebook, Inc., USA
+  + (c) pooyan.jamshidi@gmail.com, Univ. South Carolina, USA
+  + (d) tim.menzies@gmail.com, NC State Univ., USA
 
 ## Data
 
 + [Configuration Data](/src/Data)
 
-## Latex Source
-
-+ [FSE 2018 Submission](https://arxiv.org/e-print/1803.03900)
 
 ## Source Code
 
